@@ -1,4 +1,5 @@
 # Data-Engineering
-A repository for all my data-engineering related projects
-
+Repo for all my data related projects
+## Sub-Folder
+To check projects I have worked on, go into the sub-folders
 
